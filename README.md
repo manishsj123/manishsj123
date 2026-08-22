@@ -106,7 +106,9 @@ whoami:
 
 ## 📡 TELEMETRY.LIVE
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishsj123&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=05070f&title_color=FF00E5&text_color=c9d1d9" width="40%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishsj123&theme=react-dark&hide_border=true&bg_color=05070f&color=00FFF7&line=FF00E5&point=ffffff" width="56%" /> </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishsj123&theme=react-dark&hide_border=true&bg_color=05070f&color=00FFF7&line=FF00E5&point=ffffff" width="56%" /> 
+</div>
 
 ## 🏆 ACHIEVEMENT.LOG
 
