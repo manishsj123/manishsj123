@@ -112,10 +112,6 @@ whoami:
 
 ## 🏆 ACHIEVEMENT.LOG
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manishsj123&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <table width="100%">
@@ -177,7 +173,7 @@ Database (Supporting): SQL Server, MySQL, MongoDB
 <a href="mailto:manishjathar01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0F2C?style=for-the-badge&logo=gmail&logoColor=FF4B4B&labelColor=05070f" /></a>
 <a href="https://manish-in.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0F2C?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=05070f" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=199&color=gradient&section=footer"/>
 
