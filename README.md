@@ -30,8 +30,6 @@
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/grid.gif" width="100%">
 
-<br/>
-
 ## ⚡ SYSTEM.PROFILE
 
 <table width="100%">
@@ -180,14 +178,6 @@ Database (Supporting): SQL Server, MySQL, MongoDB
 ### 💾 QUOTE.CACHE
 
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br/><br/>
-
-```
-> connection established
-> if you found value here, consider hitting ⭐
-> let's build something worth deploying
-```
 
 <br/>
 
