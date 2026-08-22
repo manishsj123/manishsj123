@@ -197,6 +197,6 @@ Database (Supporting): SQL Server, MySQL, MongoDB
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,11,6&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=199&color=gradient&section=footer"/>
 
 </div>
