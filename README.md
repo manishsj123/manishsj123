@@ -1,7 +1,7 @@
 <div align="center">
 
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There%2C%20I'm%20Manish%20Jathar&section=header&reversal=false&textBg=false&rotate=0&desc=Software%20Engineer&descAlignY=60&fontAlign=50&fontAlignY=40" alt="Manish Jathar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20There%2C%20I'm%20Manish&section=header&reversal=false&textBg=false&rotate=0&desc=Software%20Engineer&descAlignY=60&fontAlign=50&fontAlignY=40" alt="Manish Jathar"/>
 
 <br/>
 
