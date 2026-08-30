@@ -104,11 +104,7 @@ whoami:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📡 TELEMETRY.LIVE
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishsj123&theme=react-dark&hide_border=true&bg_color=05070f&color=00FFF7&line=FF00E5&point=ffffff" width="56%" /> 
-</div>
+<img width="800" height="600" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/fc5bc710-37d9-4889-a6e3-f0913140e37f" />
 
 ## 🏆 ACHIEVEMENT.LOG
 
@@ -175,6 +171,6 @@ Database (Supporting): SQL Server, MySQL, MongoDB
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=199&color=gradient&section=footer"/>
+<img width="2000" height="400" alt="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7" src="https://github.com/user-attachments/assets/a58eaf56-3c13-409f-8452-619e561a3326" />
 
 </div>
